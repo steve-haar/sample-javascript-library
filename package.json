@@ -1,0 +1,24 @@
+{
+    "name": "sample-javascript-library",
+    "version": "1.0.1",
+    "description": "a sample JavaScript library",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/steve-haar/sample-javascript-library.git"
+    },
+    "keywords": [
+        "sample",
+        "javascript",
+        "library"
+    ],
+    "author": "Steve Haar <info@stevehaar.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/steve-haar/sample-javascript-library/issues"
+    },
+    "homepage": "https://github.com/steve-haar/sample-javascript-library#readme"
+}
