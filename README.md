@@ -1,4 +1,4 @@
 # sample-javascript-library
 a sample JavaScript library
 
-a new feature for version 1.
+a new feature for version 1..
