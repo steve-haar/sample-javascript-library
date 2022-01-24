@@ -5,6 +5,8 @@ on:
       - 'main'
       - 'v[0-9]+.[0-9]+.x'
       - 'next'
+  schedule:
+    - cron: '15 7 * * *' # run at 6am UTC
 jobs:
   release:
     name: Release
