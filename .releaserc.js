@@ -42,7 +42,8 @@ module.exports = {
       'semantic-release-slack-bot',
       {
         notifyOnSuccess: true,
-        notifyOnFail: true
+        notifyOnFail: true,
+        markdownReleaseNotes: true
       }
     ]
   ]
